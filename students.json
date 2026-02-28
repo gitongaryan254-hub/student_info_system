@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ryan",
+    "student_id": "65562666",
+    "favorite_tool": "dall-e"
+  },
+  {
+    "name": "tosh",
+    "student_id": "586663",
+    "favorite_tool": "gpt-3.5"
+  }
+]
